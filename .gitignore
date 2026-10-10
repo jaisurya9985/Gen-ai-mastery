@@ -1,8 +1,0 @@
-__pycache__/
-.ipynb_checkpoints/
-.venv/
-venv/
-local_vector_data/
-chroma_db/
-.env
-*.pyc
